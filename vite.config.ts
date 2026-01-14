@@ -9,7 +9,8 @@ export default defineConfig(({ mode }) => {
       port: 3000,
       host: '0.0.0.0',
       allowedHosts: [
-        'web-xoe6ogfzs17t.up-de-fra1-k8s-1.apps.run-on-seenode.com'
+        'web-xoe6ogfzs17t.up-de-fra1-k8s-1.apps.run-on-seenode.com',
+        'angelicatheran.run-on-seenode.com'
       ]
     },
     plugins: [react()],
